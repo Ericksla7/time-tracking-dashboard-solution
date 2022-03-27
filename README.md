@@ -28,15 +28,15 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./prints/flex-flow.jpg)
-![Screenshot](./prints/done-pc.jpg)
-![Screenshot](./prints/done-mobile.jpg)
+(./prints/flex-flow.jpg) <br>
+(./prints/done-pc.jpg)  <br>
+(./prints/done-mobile.jpg)  <br>
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Fronten Mentor](https://your-solution-url.com)
+- Live Site URL: [GitHub](https://ericksla7.github.io/time-tracking-dashboard-solution/)
 
 ## My process
 
@@ -47,11 +47,13 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-- [Next.js](js/index.js) - React framework
-- [Styled Components](css/general.css.css)
-- [Styled Components](css/card-personal.css.css)
-- [Styled Components](css/all-cards.css.css.css)
-- [Styled Components](css/responsive.css.css)
+./js: <br>
+(js/index.js) <br><br>
+./Styled: <br>
+(css/general.css.css) <br>
+(css/card-personal.css.css) <br>
+(css/all-cards.css.css.css) <br>
+(css/responsive.css.css)  <br>
 
 
 ### What I learned
@@ -75,14 +77,14 @@ I need to focus on projects that use more Java Script, because it's a language I
 
 ### Useful resources
 
-- [Example resource 1](https://pt.stackoverflow.com/questions/294247/como-quebrar-div-em-duas-colunas) - This helped me understand how to break DIV's. I really liked this model and will use it from now on.
+- [Site 1](https://pt.stackoverflow.com/questions/294247/como-quebrar-div-em-duas-colunas) - This helped me understand how to break DIV's. I really liked this model and will use it from now on.
 
-- [Example resource 2](https://www.visualdicas.com.br/programacao/css/59-tecnica-para-cortar-e-centralizar-imagens-responsivas-com-css) - This is an amazing article that helped me understand how to crop images that go beyond their parent DIV's.
+- [Site 2](https://www.visualdicas.com.br/programacao/css/59-tecnica-para-cortar-e-centralizar-imagens-responsivas-com-css) - This is an amazing article that helped me understand how to crop images that go beyond their parent DIV's.
 
 
 ## Author
 
 - Website - [Erick Sanch](https://github.com/Ericksla7)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ericksla7)
+- Frontend Mentor - [@Ericksla7](https://www.frontendmentor.io/profile/Ericksla7)
 - Twitter - [@Ericksla2907](https://twitter.com/Ericksla2907)
 
